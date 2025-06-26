@@ -155,7 +155,7 @@
     <a href="https://www.linkedin.com/in/tonprofil" target="_blank">LinkedIn</a>
    <a href="https://web.facebook.com/profile.php?id=100063597277944" class="card" target="_blank">page facebook</a>
     <a href="https://www.youtube.com/@AggouneKhelifaAthlete" class="card" target="_blank">youtub</a>
-    <a href="https://socialblade.com/account" class="card" target="_blank">les pub sur fb </a>
+    <a href="https://web.facebook.com/profile.php?id=100067749069559" class="card" target="_blank">info générale  </a>
     
   </div>
 
