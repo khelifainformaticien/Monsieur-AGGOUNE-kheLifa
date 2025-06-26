@@ -150,8 +150,8 @@
  
 
   <div class="social-links">
-    <a href="https://web.facebook.com/profile.php?id=100063597277944&locale=fr_FR>Facebook</a>
-    <a href="https://www.youtube.com/@AggouneKhelifaAthlete>YouTube</a>
+    <a href="https://web.facebook.com/profile.php?id=100063597277944&locale=fr_FR">Facebook</a>
+    <a href="https://www.youtube.com/@AggouneKhelifaAthlete">YouTube</a>
     <a href="https://www.instagram.com/tonpseudo" target="_blank">Instagram</a>
     <a href="https://www.linkedin.com/in/tonprofil" target="_blank">LinkedIn</a>
     <a href="https://www.tiktok.com/@aggoune.khelifa">TikTok</a>   
