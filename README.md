@@ -5,7 +5,36 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Aggoune Khelifa | Réseaux & Contact</title>
+
   <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: white;
+      text-align: center;
+      padding-top: 100px;
+    }
+
+    .blink {
+      animation: blink-animation 1s steps(2, start) infinite;
+      color: #ff3b3b;
+      font-weight: bold;
+    }
+
+    @keyframes blink-animation {
+      0% { opacity: 1; }
+      50% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+
+    .highlight-rich {
+      color: gold;
+    }
+
+    .highlight-poor {
+      color: deepskyblue;
+    }
+  
 
     .texte-3d {
       font-size: 24px;
@@ -143,9 +172,12 @@
 <body>
 
 <h1> welcome to my web site <h1>
-   <p class="texte-3d" onclick="changerTexte(this)">
-    Je suis à votre écoute — contact, réseaux sociaux et autres moyens. <br>
-    Soyez le bienvenu sur mon site web.🌤️
+    <p>
+    Je ne veux pas me réveiller 
+    <span class="blink highlight-rich">*-riche-❤️‍🔥💰*</span> 
+    et regretter d’avoir été 
+    <span class="blink highlight-poor">*😢 -pauvre-😢 *</span> 
+    en ce qui compte vraiment
   </p>
 
   <div class="social-links">
