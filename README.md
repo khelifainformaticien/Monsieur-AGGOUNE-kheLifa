@@ -149,38 +149,14 @@
   </p>
 
   <div class="social-links">
+     <a href="https://web.facebook.com/KhelifD/" class="card" target="_blank">compte facebook</a>
+     <a href="https://www.tiktok.com/@user76372622815485" class="card" target="_blank">tiktok</a>
+    <a href="https://www.instagram.com/tonpseudo" target="_blank">Instagram</a>
+    <a href="https://www.linkedin.com/in/tonprofil" target="_blank">LinkedIn</a>
+   <a href="https://web.facebook.com/profile.php?id=100063597277944" class="card" target="_blank">page facebook</a>
+    <a href="https://www.youtube.com/@AggouneKhelifaAthlete" class="card" target="_blank">youtub</a>
+    <a href="https://socialblade.com/account" class="card" target="_blank">les pub sur fb </a>
     
-   <div class="grid">
-      <a href="https://web.facebook.com/KhelifD/" class="card" target="_blank">
-        <img src="A (1).png" >
-        compte Facebook 
-      </a>
-
-      <a href="https://www.tiktok.com/@user76372622815485" class="card" target="_blank">
-        <img src="A (5).png" alt="TikTok">
-        TikTok
-      </a>
-
-      <a href="https://www.youtube.com/@AggouneKhelifaAthlete" class="card" target="_blank">
-        <img src="youtub.jpg" alt="YouTube">
-        YouTube 
-      </a>
-
-      <a href="https://www.instagram.com/tonprofil" class="card" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram">
-        Instagram
-      </a>
-
-      <a href="https://web.facebook.com/profile.php?id=100063597277944" class="card" target="_blank">
-        <img src="p.png" alt="Site Web">
-        page facebook
-      </a>
-
-      <a href="https://socialblade.com/account" class="card" target="_blank">
-        <img src="sosial balade.jpg" >
-        publication sur  facebook 
-      </a>
-     
   </div>
 
   <div class="contact">
