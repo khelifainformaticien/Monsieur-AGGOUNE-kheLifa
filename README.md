@@ -1,4 +1,4 @@
-# Monsieur-AGGOUNE-kheLifa
+# Monsieur-AGGOUNE-kheLifa 🌤️😊
 
 <html lang="fr">
 <head>
@@ -142,22 +142,44 @@
 </head>
 <body>
 
-<h1>welcome to my web site<h1>
+<h1> welcome to my web site <h1>
    <p class="texte-3d" onclick="changerTexte(this)">
     Je suis à votre écoute — contact, réseaux sociaux et autres moyens. <br>
     Soyez le bienvenu sur mon site web.🌤️
   </p>
- 
 
   <div class="social-links">
-    <a href="https://web.facebook.com/profile.php?id=100063597277944&locale=fr_FR">Facebook</a>
-    <a href="https://www.youtube.com/@AggouneKhelifaAthlete">YouTube</a>
-    <a href="https://www.instagram.com/tonpseudo" target="_blank">Instagram</a>
-    <a href="https://www.linkedin.com/in/tonprofil" target="_blank">LinkedIn</a>
-    <a href="https://www.tiktok.com/@aggoune.khelifa">TikTok</a>   
-    <a href="https://x.com/AggouneKhelifa">Twitter</a>
-    <a href="https://khelifainformaticien.github.io/aggoune.khelifa/">site web </a>
+    
+   <div class="grid">
+      <a href="https://web.facebook.com/KhelifD/" class="card" target="_blank">
+        <img src="A (1).png" >
+        compte Facebook 
+      </a>
 
+      <a href="https://www.tiktok.com/@user76372622815485" class="card" target="_blank">
+        <img src="A (5).png" alt="TikTok">
+        TikTok
+      </a>
+
+      <a href="https://www.youtube.com/@AggouneKhelifaAthlete" class="card" target="_blank">
+        <img src="youtub.jpg" alt="YouTube">
+        YouTube 
+      </a>
+
+      <a href="https://www.instagram.com/tonprofil" class="card" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram">
+        Instagram
+      </a>
+
+      <a href="https://web.facebook.com/profile.php?id=100063597277944" class="card" target="_blank">
+        <img src="p.png" alt="Site Web">
+        page facebook
+      </a>
+
+      <a href="https://socialblade.com/account" class="card" target="_blank">
+        <img src="sosial balade.jpg" >
+        publication sur  facebook 
+      </a>
      
   </div>
 
